@@ -1,0 +1,5 @@
+untuk word embedding cc.bin.300 fasttext pada link dibawah:
+https://fasttext.cc/docs/en/crawl-vectors.html , pilih yang bin
+
+untuk word embedding word2vec ( idwiki-latest-pages-articles.xml.bz2 ) :
+https://dumps.wikimedia.org/idwiki/latest/ 
